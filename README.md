@@ -31,4 +31,10 @@ I started looking for a case and to my surprise, there are a lot! From NZXT, Cor
 
 # Finding the One:
 
-There is a handful of Mimi-PC, but I was mainly looking for a **Barebones** system, with no CPU, SSD, and RAM, also known as a **Small form-factor** (SFF)
+There is a handful of Mimi-PC, but I was mainly looking for a **Barebones** system, with no CPU, SSD, and RAM, also known as a **Small form-factor** (SFF).
+Top names are Intel NUC, Lenovo ThinkCentre, HP Mini Workstations, but as I said earlier, i ditched Intel and wanted a cheap yet powerful system. But where could I find it? 🤔
+*Drum roll* 🥁 ###AMD!
+
+
+
+
