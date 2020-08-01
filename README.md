@@ -75,6 +75,10 @@ AMD's APUs blend CPU with Radeon Vega graphics on a single ready-to-game chip. F
 
 AMD APUs comes with cooler, i wanted Wraith Spire but the issue was it's big size could not fit inside DeskMini case. So i saved 50 bucks and went for 3200G AMD Wraith Stealth :sunglasses:
 
-#### ASRock DeskMini A300W:
+---
+
+# ASRock DeskMini A300W:
 
 ![vs](git-images/DeskMini.png)
+
+You can read an indeapth review on it from <a href="https://www.anandtech.com/show/14251/asrock-deskmini-a300-review-an-affordable-diy-amd-ryzen-minipc"> Anandtech </a> and specs can be found <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Specification"> here </a>.
