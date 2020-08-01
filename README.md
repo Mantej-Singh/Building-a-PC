@@ -36,7 +36,7 @@ Top names are Intel NUC, Lenovo ThinkCentre, HP Mini Workstations, but as I said
 
 *Drum roll*🥁 
 
-#### AMD!
+### AMD!
 
 
 
