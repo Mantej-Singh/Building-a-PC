@@ -70,3 +70,5 @@ AMD's APUs blend CPU with Radeon Vega graphics on a single ready-to-game chip. F
 
 - The Ryzen 5 3400G- 3.7/4.2 GHz, (4C/8T), Vega 11 Graphics, Unlocked, $150
 - The Ryzen 3 3200G- 3.6/4.0 GHz, (4C/4T), Vega 8 Graphics, Unlocked, $100
+
+![vs](git-images/3v5.jpg)
