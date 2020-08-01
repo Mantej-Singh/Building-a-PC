@@ -61,3 +61,7 @@ But the only thing that made me not choose Minisforum was- **TIME**, so the thin
 <p align="center">
   <img src="https://github.com/Mantej-Singh/Building-a-PC/blob/master/git-images/DMAF5_spec.jpg"></a>
 </p>
+
+---
+
+# The Magnificient AMD APU:
