@@ -78,7 +78,6 @@ AMD APUs comes with cooler, i wanted Wraith Spire but the issue was it's big siz
 ---
 
 # ASRock DeskMini A300W:
-
-![vs](git-images/DeskMini.png)
+<a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Overview"> ![vs](git-images/DeskMini.png)</a>.
 
 You can read an indeapth review on it from <a href="https://www.anandtech.com/show/14251/asrock-deskmini-a300-review-an-affordable-diy-amd-ryzen-minipc"> Anandtech </a> and specs can be found <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Specification"> here </a>.
