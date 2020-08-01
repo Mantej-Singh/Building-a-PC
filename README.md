@@ -21,10 +21,14 @@ There are many reasons, few of them are
 
 ---
 
-
-
-# Shoppling List:
+# Making a List:
 
 I needed a CPU, CPU Cooler, a Motherboard which can use a **SODIMM** memory, SSD, Graphic Card, and a case.
 I already had Monitors, 1x8GB RAM, 1x500GB HDD, speakers, and 14TB external hard drive.
 I started looking for a case and to my surprise, there are a lot! From NZXT, Corsair, Cooler Master. So to make it simple, I started looking for **Mini-PC builds**:eyes:
+
+---
+
+# Finding the One:
+
+There is a handful of Mimi-PC, but I was mainly looking for a **Barebones** system, with no CPU, SSD, and RAM, also known as a **Small form-factor*** (SFF)
