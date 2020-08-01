@@ -18,3 +18,10 @@ There are many reasons, few of them are
 <p align="center">
   <img src="https://jamonline.ph/wp-content/uploads/2020/07/Henry-Cavill-Gaming-PC.png"></a>
 </p>
+---
+
+# Shoppling List:
+
+I needed a CPU, CPU Cooler, a Motherboard which can use a **SODIMM** memory, SSD, Graphic Card, and a case.
+I already had Monitors, 1x8GB RAM, 1x500GB HDD, speakers, and 14TB external hard drive.
+I started looking for a case and to my surprise, there are a lot! From NZXT, Corsair, Cooler Master. So to make it simple, I started looking for Mini-PC builds
