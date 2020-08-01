@@ -38,6 +38,17 @@ Top names are Intel NUC, Lenovo ThinkCentre, HP Mini Workstations, but as I said
 
 ### AMD!
 
+---
 
+# Ryzen Shine:
 
+Once I made my mind for AMD, I shortlisted listed two of the manufacturers which I liked.
+
+ - <a href="https://www.indiegogo.com/projects/the-next-gen-minis-amd-yes#/"> Minisforum - DMAF5 </a>
+ - <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/"> Rock DeskMini A300W </a>
+
+### Minisforum - DMAF5 Story:
+I found about them from my Google Feeds (thanks Google lady:+1:). I watched a few videos, researched for hours on the company's background, and whether I should buy it or not. I found out that they are a promising company, and their product is solid. I joined their FB group asked a few questions which I had, they are kind, supportive, and fast in replying to people querries.
+
+But the only thing that made me not choose Minisforum was- **TIME**, so the thing is that they have launched a funding campaign on Indiegogo and it will take them 2-3 months to ships the final product to the users worldwide. And I wanted my PC in a few weeks, I did not have that much patience so I moved forward, also they don't have an option for barebones 
 
