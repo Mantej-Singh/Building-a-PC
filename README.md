@@ -91,7 +91,7 @@ I finally found what I ever wanted, a barebone system where I can use my exiting
 
 ---
 
-# Final Shopping List
+# Final Shopping List:
 
 Component | Price | Link
 -- | ---- | ----
@@ -109,6 +109,61 @@ Seagate 2.5 HDD
 
 The **Graphite Thermal Pad** helps me with keeping the temperatures down by 10 degrees. This my current APU's performance, I am editing this article on Chrome, listening to music, working on a word doc and xlsx. All these multitasking with juts 7-10% load with 45-50°C temps.
 ![sysperf](git-images/sysperf.png)
+
+---
+
+# Pictures of my baby:
+
+![20200724_164339](git-images/20200724_164339.jpg)
+
+![IMG_20200724_153910_Bokeh](git-images/IMG_20200724_153910_Bokeh.jpg)
+
+![20200728_122342](git-images/20200728_122342.jpg)
+
+![20200728_122606](git-images/20200728_122606.jpg)
+
+![20200728_124047](git-images/20200728_124047.jpg)
+
+![20200728_124225](git-images/20200728_124225.jpg)
+
+![20200728_124420](git-images/20200728_124420.jpg)
+
+![20200728_131542](git-images/20200728_131542.jpg)
+
+![20200728_132411](git-images/20200728_132411.jpg)
+
+![20200728_132532](git-images/20200728_132532.jpg)
+
+![20200728_132535](git-images/20200728_132535.jpg)
+
+![20200731_082651](git-images/20200731_082651.jpg)
+
+![20200728_132537](git-images/20200728_132537.jpg)
+
+![20200728_132818](git-images/20200728_132818.jpg)
+
+![20200728_133231_2](git-images/20200728_133231_2.jpg)
+
+![20200728_133334](git-images/20200728_133334.jpg)
+
+![20200728_133336](git-images/20200728_133336.jpg)
+
+![20200728_133339](git-images/20200728_133339.jpg)
+
+![20200728_140109](git-images/20200728_140109.jpg)
+
+![20200728_140112](git-images/20200728_140112.jpg)
+
+![20200728_140122](git-images/20200728_140122.jpg)
+
+![Annotation 2020-08-01 170451](git-images/Annotation 2020-08-01 170451.jpg)
+
+![internet-speed-test](git-images/internet-speed-test.jpg)
+
+
+## And Finally
+
+![IMG_20200801_111904_2](git-images/IMG_20200801_111904_2.jpg)
 
 
 --- 
