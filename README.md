@@ -23,9 +23,9 @@ There are many reasons, few of them are
 
 # Making a List:
 
-I needed a CPU, CPU Cooler, a Motherboard which can use a **SODIMM** memory, SSD, Graphic Card, and a case.
-I already had Monitors, 1x8GB RAM, 1x500GB HDD, speakers, and 14TB external hard drive.
-I started looking for a case and to my surprise, there are a lot! From NZXT, Corsair, Cooler Master. So to make it simple, I started looking for **Mini-PC builds**:eyes:
+I needed a CPU, a CPU Cooler, a Motherboard which can use a **SODIMM** memory, NVme SSD (not the SATA SSD), Graphic Card, and a case. I already had two Monitors, 1x8GB RAM, 1x500GB HDD, speakers, and 14TB external hard drive. So I started looking for a case and to my surprise, there are a lot! From NZXT, Corsair, Cooler Master. So to make it simple, I started looking for**Mini-PC builds**:eyes:
+
+*Info: You can use <a href="https://pcpartpicker.com/list/"> PPpartpicker </a> for customer builds, they provide part selection, compatibility, and pricing guidance for do-it-yourself computer builders*
 
 ---
 
