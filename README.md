@@ -31,8 +31,7 @@ I needed a CPU, a CPU Cooler, a Motherboard which can use a **SODIMM** memory, N
 
 # Finding the One:
 
-There is a handful of Mimi-PC, but I was mainly looking for a **Barebones** system, with no CPU, SSD, and RAM, also known as a **Small form-factor** (SFF).
-Top names are Intel NUC, Lenovo ThinkCentre, HP Mini Workstations, but as I said earlier, i ditched Intel and wanted a cheap yet powerful system. But where could I find it? 🤔
+There are a handful of Mini-PC options, but I was mainly looking for a **Barebones** system (no CPU, SSD, RAM), also known as a Small form-factor (SFF). Top names are Intel NUC, Lenovo ThinkCentre, HP Mini Workstations, but as I said earlier, I ditched Intel and wanted a cheap yet powerful system. But where could I find it? 🤔
 
 *Drum roll*🥁 
 
