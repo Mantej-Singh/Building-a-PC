@@ -107,6 +107,7 @@ Stuff from previous laptop | Price | Link
 Crucial 8GB Single DDR4 2400 | $31.99 |  <a href="https://www.amazon.com/gp/product/B01BIWKP58/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> here </a> 
 Seagate 2.5 HDD
 
+The **Graphite Thermal Pad** helps me with keeping the temperatures down by 10 degrees. This my current APU's performance, I am editing this article on Chrome, listening to music, working on a word doc and xlsx. All these multitasking with juts 7-10% load with 45-50°C temps.
 ![sysperf](git-images/sysperf.png)
 
 
