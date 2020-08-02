@@ -75,7 +75,7 @@ AMD's APUs blend CPU with Radeon Vega graphics on a single ready-to-game chip. F
 
 ![vs](git-images/3v5.jpg)
 
-AMD APUs comes with cooler, i wanted Wraith Spire but the issue was it's big size could not fit inside DeskMini case. So i saved 50 bucks and went for 3200G AMD Wraith Stealth :sunglasses:
+AMD APUs come with cooler, I wanted Wraith Spire but the issue was its big size could not fit inside DeskMini case. So I saved 50 bucks and went for 3200G AMD Wraith Stealth :sunglasses:
 
 ---
 
