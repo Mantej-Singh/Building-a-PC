@@ -183,4 +183,4 @@ The **Graphite Thermal Pad** helps me with keeping the temperatures down by 10 d
 ---
 
 # A Big Thanks to:
-Dr. Lisa Su CEO of AMD. She has transformed the company within last 5 years where sky is not the limit. 7nm is not the joke ! Try writing on 7nm microprocessor.
+Dr. Lisa Su CEO of AMD. She has transformed the company within last 5 years where sky is not the limit.
