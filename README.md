@@ -103,6 +103,7 @@ Crucial P1 500GB NVMe | $56.99 | <a href="https://www.newegg.com/crucial-p1-500g
 
 
 Stuff from previous laptop | Price | Link
+-- | ---- | ----
 Crucial 8GB Single DDR4 2400 | $31.99 |  <a href="https://www.amazon.com/gp/product/B01BIWKP58/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> here </a> 
 Seagate 2.5 HDD
 
