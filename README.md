@@ -156,8 +156,9 @@ The **Graphite Thermal Pad** helps me with keeping the temperatures down by 10 d
 
 ![20200728_140122](git-images/20200728_140122.jpg)
 
-![Annotation 2020-08-01 170451](git-images/Annotation 2020-08-01 170451.jpg)
+![Annotation2020170451.png](git-images/Annotation2020170451.png)
 
+## Speed Test on Ethernet Cable
 ![internetspeedtest](git-images/internetspeedtest.png)
 
 
