@@ -59,7 +59,7 @@ But the only thing that made me not choose Minisforum was- **TIME**, so the thin
 
 #### Minisforum - DMAF5 Specs:
 <p align="center">
-  <img src="https://github.com/Mantej-Singh/Building-a-PC/blob/master/git-images/DMAF5_spec.jpg"></a>
+  
 </p>
 
 ---
@@ -67,6 +67,8 @@ But the only thing that made me not choose Minisforum was- **TIME**, so the thin
 # The Magnificient AMD APU:
 
 AMD's APUs blend CPU with Radeon Vega graphics on a single ready-to-game chip. Fortunately, ASRock DeskMini supports Ryzen 3000 series right out of the box. And I had two options for APUs:
+<img src="https://cdn.wccftech.com/wp-content/uploads/2017/12/AMD-Vega-11.jpg"></a>
+
 
 - The Ryzen 3 3200G- 3.6/4.0 GHz, (4C/4T), Vega 8 Graphics, Unlocked, $100
 - The Ryzen 5 3400G- 3.7/4.2 GHz, (4C/8T), Vega 11 Graphics, Unlocked, $150
@@ -81,6 +83,10 @@ AMD APUs comes with cooler, i wanted Wraith Spire but the issue was it's big siz
 <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Overview"> ![vs](git-images/DeskMini.png)</a>
 
 You can read an in-depth  review on it from <a href="https://www.anandtech.com/show/14251/asrock-deskmini-a300-review-an-affordable-diy-amd-ryzen-minipc"> Anandtech </a> and specs can be found <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Specification"> here </a>.
+
+
+
+--- 
 
 #### Shout out to fellow Youtubers for reviewing DeskMini and replying to my questions, they certainly helped me with my purchase decision.
 
