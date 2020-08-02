@@ -158,7 +158,7 @@ The **Graphite Thermal Pad** helps me with keeping the temperatures down by 10 d
 
 ![Annotation 2020-08-01 170451](git-images/Annotation 2020-08-01 170451.jpg)
 
-![internet-speed-test](git-images/internet-speed-test.jpg)
+![internetspeedtest](git-images/internetspeedtest.png)
 
 
 ## And Finally
