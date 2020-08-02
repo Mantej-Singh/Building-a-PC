@@ -89,7 +89,22 @@ I finally found what I ever wanted, a barebone system where I can use my exiting
 
 ![raid](git-images/raid.png)
 
+---
 
+# Final Shopping List
+
+Component | Price | Link
+-- | ---- | ----
+AMD Ryzen 3 3200G | $99.99 | <a href="https://www.amazon.com/gp/product/B07STGHZK8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1"> here </a>
+Thermal Pad | $12.95 | <a href="https://www.amazon.com/gp/product/B07CK9SHZG/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1"> here </a>
+Crucial 16GB DDR4 2400 SODIMM | $64.40 | <a href="https://www.amazon.com/gp/product/B019FRBHZ0/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> here </a>
+ASRock DESKMINI A300W | $153.99 | <a href="https://www.newegg.com/asrock-deskmini-a300w/p/N82E16856158064?Item=N82E16856158064"> here </a>
+Crucial P1 500GB NVMe | $56.99 | <a href="https://www.newegg.com/crucial-p1-500gb/p/N82E16820156200?Item=N82E16820156200"> here </a>
+
+
+Stuff from previous laptop | Price | Link
+Crucial 8GB Single DDR4 2400 | $31.99 |  <a href="https://www.amazon.com/gp/product/B01BIWKP58/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"> here </a> 
+Seagate 2.5 HDD
 
 --- 
 
