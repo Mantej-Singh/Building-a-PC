@@ -2,9 +2,9 @@
 
 ![startimage](git-images/intro.png)
 
-I am considering this a personal project. By the way, my first time building a PC (actually a Mini-PC). Before this, I always used OEM laptop and this project was all about how I can make the most epic PC for less money while reusing existing components from old laptops. In my case, i used RAM, HDD from my previous laptop, and Google Home-Mini which for lying around for speakers.
+The most useful side of current Pendamic is, I had a lot of time to work on something I always wanted to do. From my high school time, I have watched a lot of video tutorials where YouTubers make high-end Gaming PCs and Workstations. So I am considering this as my pet project. By the way, this is my first time building a PC (actually a Mini-PC). Before this, I have always used an OEM laptop (HP and DELL), and this project was all about how I can make the most epic PC for less money while reusing existing components from previous and old laptops. In this project, I used RAM, HDD from my other laptop, and used Google Home-Mini as a Bluetooth speaker:wink:
 
-The whole concept is, $ave that Money :wink:
+***Note: The Bluetooth connection for the Google Home devices are for input only. You cannot use it for conference calls ***
 
 ---
 
