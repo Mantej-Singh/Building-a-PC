@@ -48,7 +48,7 @@ Once I made my mind for AMD, I shortlisted listed two of the manufacturers which
  - <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/"> ASRock DeskMini A300W </a>
 
 #### Minisforum - DMAF5 Story:
-I found about them from my Google Feeds (thanks Google lady:+1:). I watched a few videos, researched for hours on the company's background, and whether I should buy it or not. I found out that they are a promising company, and their product is solid. I joined their FB group asked a few questions which I had, they are kind, supportive, and fast in replying to people querries.
+I found about them from my Google Feeds (thanks Google lady:+1:). I watched a few videos, researched for hours on the company's background, and whether I should buy it or not. I found out that they are a promising company, and their product is solid. I joined their FB group asked a few questions which I had, they are kind, supportive, and fast in replying to people’s queries.
 
 But the only thing that made me not choose Minisforum was- **TIME**, so the thing is that they have launched a funding campaign on Indiegogo and it will take them 2-3 months to ships the final product to the users worldwide. And I wanted my PC in a few weeks, I did not have that much patience so I moved forward with **ASRock**, also they don't have an option for barebones 
 
@@ -80,7 +80,7 @@ AMD APUs comes with cooler, i wanted Wraith Spire but the issue was it's big siz
 # ASRock DeskMini A300W:
 <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Overview"> ![vs](git-images/DeskMini.png)</a>
 
-You can read an indeapth review on it from <a href="https://www.anandtech.com/show/14251/asrock-deskmini-a300-review-an-affordable-diy-amd-ryzen-minipc"> Anandtech </a> and specs can be found <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Specification"> here </a>.
+You can read an in-depth  review on it from <a href="https://www.anandtech.com/show/14251/asrock-deskmini-a300-review-an-affordable-diy-amd-ryzen-minipc"> Anandtech </a> and specs can be found <a href="https://asrock.com/nettop/AMD/DeskMini%20A300%20Series/#Specification"> here </a>.
 
 #### Shout out to fellow Youtubers for reviewing DeskMini and replying to my questions, they certainly helped me with my purchase decision.
 
