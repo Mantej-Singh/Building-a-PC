@@ -160,12 +160,12 @@ The **Graphite Thermal Pad** helps me with keeping the temperatures down by 10 d
 
 ![Annotation2020170451.png](git-images/Annotation2020170451.png)
 
-## PC Specification:
+## PC Specifications:
 ![internetspeedtest](git-images/PC_specs.png)
 
-## Speed Test on Ethernet Cable:
+## Speed Test on Ethernet Cable Cat5e:
 ![PC_specs](git-images/internetspeedtest.png)
-
+Thanks to Haroon S Malik for providing me with cable
 
 ## And Finally :heartpulse:
 
