@@ -23,7 +23,7 @@ There are many reasons, few of them are
 
 # Making a List:
 
-I needed a CPU, a CPU Cooler, a Motherboard which can use a **SODIMM** memory, NVme SSD (not the SATA SSD), Graphic Card, and a case. I already had two Monitors, 1x8GB RAM, 1x500GB HDD, speakers, and 14TB external hard drive. So I started looking for a case and to my surprise, there are a lot! From NZXT, Corsair, Cooler Master. So to make it simple, I started looking for**Mini-PC builds**:eyes:
+I needed a CPU, a CPU Cooler, a Motherboard which can use a **SODIMM** memory, NVme SSD (not the SATA SSD), Graphic Card, and a case. I already had two Monitors (Thanks to my friend for giving me his monitor), 1x8GB RAM, 1x500GB HDD, speakers, and 14TB Seagate External hard drive. So I started looking for a case and to my surprise, there are a lot! From NZXT, Corsair, Cooler Master. So to make it simple, I started looking for**Mini-PC builds**:eyes:
 
 *Info: You can use <a href="https://pcpartpicker.com/list/"> PPpartpicker </a> for customer builds, they provide part selection, compatibility, and pricing guidance for do-it-yourself computer builders*
 
@@ -165,6 +165,7 @@ The **Graphite Thermal Pad** helps me with keeping the temperatures down by 10 d
 
 ## Speed Test on Ethernet Cable Cat5e:
 ![PC_specs](git-images/internetspeedtest.png)
+
 Thanks to Haroon S Malik for providing me with cable
 
 ## And Finally :heartpulse:
