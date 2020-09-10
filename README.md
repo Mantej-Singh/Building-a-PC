@@ -187,6 +187,7 @@ Thanks to Haroon S Malik for providing me with cable
 
 # A Big Thanks to:
 Dr. Lisa Su CEO of AMD. She has transformed the company within the last 5 years where the sky is not the limit.
+
 ---
 
-# May your frame rates be high and temperatures low!
+###  May your frame rates be high and temperatures low!
